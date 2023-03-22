@@ -12,7 +12,7 @@ This is an updated version of the original <a href="https://github.com/riccardob
 * Finally run the command <b> node index.js </b> in your terminal and proceed to the browser and enter localhost:3000.
 
 # Screenshots: 
-* https://github.com/riccardoboe/tiered-bad-bak/issues/1#issue-1634966949
+* ![readmescreenshot](https://user-images.githubusercontent.com/108944237/226788602-e520d1af-3ed3-41a2-8706-c8a22a49e862.png)
 
 # Technology used: 
 * Mongo DB
