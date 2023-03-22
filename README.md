@@ -9,9 +9,9 @@ This is an updated version of the original <a href="https://github.com/riccardob
 
 # Installation Guidelines: 
 * First clone this repo to your github (I recommend using the GitHub desktop app) 
-* Run the command <h>Marked text</h> in the project folder's terminal. 
-* Open your docker application, and run this command in the terminal <i> docker run -p 27017:27017 --name badbank -d mongo). </i>
-* Finally run the command <i> node index.js </ik> in your terminal and proceed to the browser and enter localhost:3000.
+* Run the command <b>Marked text</b> in the project folder's terminal. 
+* Open your docker application, and run this command in the terminal <b> docker run -p 27017:27017 --name badbank -d mongo). </b>
+* Finally run the command <b> node index.js </b> in your terminal and proceed to the browser and enter localhost:3000.
 
 # Screenshots: 
 * 
