@@ -29,7 +29,7 @@ This is an updated version of the original <a href="https://github.com/riccardob
 * Authenticaion
 * Send money between accounts
 
-License: MIT
+# License: MIT
 MIT License
 
 Copyright (c) 2020 John Williams
