@@ -1,7 +1,5 @@
-# Tiered Bad Bank
-
 # Project Title: 
-* Bad Bank with React
+* <b> Bad Bank with React </b>
 
 # Description/Motivation: 
 This is an updated version of the original <a href="https://github.com/riccardoboe/Front-End-Banking-Application " target="_blank">bad bank application</a> with added back end aspect.
